@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Appy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello wold!</string>
+	<string name="login_username">user name</string>
+	<string name="login_password">password</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+	
+</resources>
