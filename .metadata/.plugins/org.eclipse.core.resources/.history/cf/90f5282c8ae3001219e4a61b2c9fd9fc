@@ -32,7 +32,7 @@ public class Login extends Activity {
     	//find a way to salt it so it works out, tokenize?
     	String encryptedPassword = rawPassword.getText().toString();
     	
-    	loginCheck.putExtra(EXTRA_MESSAGE, username);
+    	checkLogin.putExtra(EXTRA_MESSAGE, message);
     }
     
 }
